@@ -14,6 +14,7 @@ Install and load:
 * grunt stuff
 
 ## Requirements
+
 * Your site should have two inputs and a button
 * In the inputs you type in a treehouse username and then hit the button
 * Once the button is hit your code should 
@@ -35,3 +36,8 @@ Install and load:
 	* Show an user friendly message if no data comes back from treehouse - ie you type in a username that doesn't exist (hint: use .catch on your promise.all to catch the error from treehouse)
 	* Have cool animations
 	* Not be styled unless you have 100% functionality complete
+
+
+
+Example Wireframe:
+![Splashpage](https://raw.githubusercontent.com/zoeames/treehouse-cage-match/master/cage_match.png)
