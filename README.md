@@ -28,7 +28,6 @@ Install via CDN:
 * Your code should:
 	* Use ALL THE BOOTSTRAP
 	* Be clean and readable
-	* Have a SMASH function.
 
 
 
